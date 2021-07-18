@@ -8,6 +8,5 @@ This too
 ### list
 
   * Item 1 <br>
-  * Item 2 
-  <p>&nbsp;</p>
-  * Item 3
+  * Item 2 <br>
+  * Item 3 <br>
