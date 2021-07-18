@@ -6,6 +6,8 @@ This is to test new line character
 This too
 <p>&nbsp;</p>
 ### list
-  * Item 1
+
+  * Item 1 <br>
   * Item 2 
+  <p>&nbsp;</p>
   * Item 3
